@@ -1,0 +1,22 @@
+{
+  "name": "teamprofile",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanchen0706/teamprofile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanchen0706/teamprofile/issues"
+  },
+  "homepage": "https://github.com/ryanchen0706/teamprofile#readme"
+}
